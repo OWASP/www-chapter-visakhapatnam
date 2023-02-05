@@ -1,7 +1,7 @@
 ### Visakhapatnam Information
-* Provide Group Information
+* Groups will be added later
 
 ### Social Links
-* [Meetup](#)
+<!-- * [Meetup](#) -->
 
 
