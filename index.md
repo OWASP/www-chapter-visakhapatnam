@@ -9,10 +9,10 @@ meetup-group:
 ---
 
 ## Welcome
-OWASP Visakhapatnam chapter is created to contribute towards advancements in web application security and cyber security and make the world more secure than ever. The chapter is planning on conducting hackathons, CTF events, awareness sessions and webinars on web security. Soon, the chapter will ensure to provide very useful content and help many people to join in the field of web security.
+OWASP Visakhapatnam chapter is created to contribute towards advancements in web application security and cyber security and make the world more secure than ever. The chapter is planning on conducting hackathons, CTF events, awareness sessions, and webinars on web security. Soon, the chapter will ensure to provide very useful content and help many people to join in the field of web security.
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
 
