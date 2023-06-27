@@ -1,5 +1,5 @@
 ---
-title: Team
+title: team
 displaytext: Team
 layout: null
 tab: true
