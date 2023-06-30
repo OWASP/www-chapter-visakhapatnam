@@ -18,7 +18,10 @@ Chapters are led by local leaders in accordance with the [Chapters Policy](/www-
 
 Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
-{% include chapter_events.html group=page.meetup-group %}
+## Next Meeting/Event
+### 30th July, 2023 - 10:00 AM
+Topic: "Cybersecurity 101 : How to break into cybersecurity industry"
+Name of the Speaker: Suresh A (Cybersecurity consultant @ Palo Alto networks)
+<!-- You should keep this section as it will populate your meetup events -->
+<!-- {% include chapter_events.html group=page.meetup-group %} -->
 
