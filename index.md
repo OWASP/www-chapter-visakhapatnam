@@ -27,6 +27,3 @@ Name of the Speaker: Suresh A (Cybersecurity consultant @ Palo Alto networks)
 Mode of session: Virtual
 
 Link: Will be updated soon.
-
-<!-- You should keep this section as it will populate your meetup events {% include chapter_events.html group=page.meetup-group %} -->
-
