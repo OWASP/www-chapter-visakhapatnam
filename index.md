@@ -26,4 +26,4 @@ Name of the Speaker: Suresh A (Cybersecurity consultant @ Palo Alto networks)
 
 Mode of session: Virtual
 
-Link: Will be updated soon.
+Link: [Zoom invite link](https://us06web.zoom.us/j/89645411448?pwd=ZXNWYlliMkNZMjNvaUUwdmZjbktzQT09) - https://us06web.zoom.us/j/89645411448?pwd=ZXNWYlliMkNZMjNvaUUwdmZjbktzQT09
