@@ -7,7 +7,9 @@ order: 2
 tags: OWASP Visakhapatnam
 ---
 
-| Roles | Responsibilities | Person(s) |
+| Person | Role | Responsibilities |
 | --- | --- | --- |
-| Chapter Leaders | The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair. | [Sri Harsha S](mailto:sri_harsha.saragadam@owasp.org), [Sri Harsha Ch](mailto:sri_harsha.chitrada@owasp.org) |
-| Secretary | Core team member involved in all aspects of Chapter activities including developing the Chapter to appreciable level. | [Shoukath Ali shaik](mailto:shoukathali271004@gmail.com) |
+| [Sri Harsha Saragadam](mailto:sri_harsha.saragadam@owasp.org) | Chapter Leader | The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair. |
+| [Sri Harsha Chitrada](mailto:sri_harsha.chitrada@owasp.org) | Chapter Leader | The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair. |
+| [Suresh Allaboyina](mailto:suresh.allaboyina@owasp.org) | Chapter Leader | The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair. |
+| [Shoukath Ali Shaik](mailto:shoukathali271004@gmail.com) | Chapter Leader | The central point of contact for the Chapter and responsible to the OWASP Board. Serves as Chapter Leader and Chapter board chair. |
