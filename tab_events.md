@@ -16,6 +16,8 @@ Mode of session: Virtual
 Link: [Zoom invite link](https://us06web.zoom.us/j/82780224501?pwd=VkVUT3IzMkNXWU5aNHNVbk1MQk9JUT09) - https://us06web.zoom.us/j/82780224501?pwd=VkVUT3IzMkNXWU5aNHNVbk1MQk9JUT09
 
 ## Past Events
+| Topic | Speaker(s) | Venue | Link |
+
 ### 30th July, 2023 - 10:00 AM - Webinar
 Topic: "Cybersecurity 101 : How to break into cybersecurity industry"
 
