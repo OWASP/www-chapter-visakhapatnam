@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Visakhapatnam
 tags: OWASP Visakhapatnam
 region: Asia
+country: India
 meetup-group:
 
 ---
