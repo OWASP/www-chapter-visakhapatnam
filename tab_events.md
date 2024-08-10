@@ -6,7 +6,11 @@ tab: true
 order: 3
 tags: OWASP Visakhapatnam
 ---
-### No upcoming events
+## Upcoming events
+
+| Topic | Speaker | Venue | Link | Date |
+| --- | --- | --- | --- | --- |
+| AI prospects in Cyber Security | [Piyush Kohli](https://www.linkedin.com/in/kohlimaxout/) | Virtual (Zoom) | [Zoom Meeting Link](https://lnkd.in/gNsKr2fh) | 10th August, 2024 |
 
 ## Past Events
 
