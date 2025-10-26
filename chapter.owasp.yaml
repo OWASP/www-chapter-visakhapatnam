@@ -1,0 +1,25 @@
+leaders:
+  - name: Sri Harsha Chitrada
+    email: sri_harsha.chitrada@owasp.org
+    github: s-sriharsha
+  - name: Suresh Allaboyina
+    email: suresh.allaboyina@owasp.org
+  - name: Shoukath Ali Shaik
+    email: shoukath.alishaik@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Andhra Pradesh
+  city: Visakhapatnam
+  latitude: 17.7231276
+  longitude: 83.3012842
+name: OWASP Visakhapatnam
+repositories:
+  - name: www-chapter-visakhapatnam
+    url: https://github.com/OWASP/www-chapter-visakhapatnam
+    description: OWASP Foundation Web Repository
+tags:
+  - OWASP
+  - Visakhapatnam
+  - custom-tag-1
+website: https://owasp.org/www-chapter-visakhapatnam
